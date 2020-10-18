@@ -1,0 +1,22 @@
+*{
+    font-style: italic;
+    font-size: small;
+}
+h1{
+    font-size: xx-large;
+}
+h2{
+    font-size: x-large;
+}
+h3{
+    font-size: large;
+}
+.user { color: skyblue; }
+a:link{ text-decoration: none;}
+.rea{
+    background-color: rgb(165, 165, 165);
+}
+.fecha{
+    color: grey;
+    font-size: smaller;
+}
